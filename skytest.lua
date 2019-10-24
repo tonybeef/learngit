@@ -53,7 +53,7 @@ function getLuaTest()
     print("git checkout branchname") -- 切换分支
     print("git branch -d branchname")  -- 删除分支
     print("git branch") -- 查看分支
-    print("git branch") -- 查看分支
+    print("git pull") -- 下载远程仓库并且合并
     print("git branch") -- 查看分支
 
 end
