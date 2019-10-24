@@ -48,7 +48,12 @@ function getLuaTest()
         4.git push -u origin master 把本地版本库更新到远程版本库里面去
     ]]
 
-    print("git checkout -b branchname")
-    print("git branch branchname")
-    print("git checkout branchname")
+    print("git checkout -b branchname") --创建切换分支
+    print("git branch branchname") -- 创建分支
+    print("git checkout branchname") -- 切换分支
+    print("git branch -d branchname")  -- 删除分支
+    print("git branch") -- 查看分支
+    print("git branch") -- 查看分支
+    print("git branch") -- 查看分支
+
 end
