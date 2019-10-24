@@ -1,4 +1,14 @@
 function getLuaTest()
     print("your father is also your father")
     print("C:/Users/skyline/Desktop/skytest.lua")
+    print("test-git fighting")
+    print("git init create a empty github")
+    print("git config --global user.name \'sungeliang\'
+            git config --global user.email \'sungelianginsky@163.com\'")
+    print("madir learngit
+           cd learngit
+           pwd")
+    print("git add xxx.xx")
+    print("git commit -m \'detail\'")
+
 end
