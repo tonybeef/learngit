@@ -47,4 +47,8 @@ function getLuaTest()
         3.创建一个版本库，本地输入命令行git remote add origin https://github.com/tonybeef/learngit.git关联远程版本库
         4.git push -u origin master 把本地版本库更新到远程版本库里面去
     ]]
+
+    print("git checkout -b branchname")
+    print("git branch branchname")
+    print("git checkout branchname")
 end
