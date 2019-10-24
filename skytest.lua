@@ -19,4 +19,6 @@ function getLuaTest()
     print("git reflog")
     print("git reset --hard HEAD^")
     print("git reset --hard commit-id")
+
+    print("git restore -- xx.x 回撤")
 end
