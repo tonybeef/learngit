@@ -10,5 +10,7 @@ function getLuaTest()
            pwd")
     print("git add xxx.xx")
     print("git commit -m \'detail\'")
+    print("git status")
+    print("git diff xxx.x")
 
 end
