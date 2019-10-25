@@ -55,11 +55,8 @@ function getLuaTest()
     print("git branch") -- 查看分支
     print("git pull") -- 下载远程仓库并且合并
     print("git branch") -- 查看分支
-<<<<<<< HEAD
     print("git branch") -- 查看分支
 
-=======
     print("conflict test")
     print("conflict test")
->>>>>>> dev
 end
